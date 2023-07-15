@@ -1,0 +1,48 @@
+*{
+	font-family: Arial;
+	
+	
+	
+}
+body{
+	 max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+aside{
+	width: 40%;
+}
+
+h1{
+	 text-align: center;
+	 font-size: 30px;
+}
+.caixa{
+	font-size: 15px;
+	border-radius: 5px;
+}
+
+.caixa:hover{
+	background-color: #E0FFFF;
+}
+.enviar{
+	height: 40px;
+	width: 150px;
+	background-color: #7FFFD4;
+	border-radius: 10px;
+	
+}
+
+.limpar{
+	background-color: #7FFFD4;
+	height: 40px;
+	width: 150px;
+	border-radius: 10px;
+	justify-content: space-evenly;
+}
+.botoes{
+	display: flex;
+	justify-content: space-evenly;
+	
+}
